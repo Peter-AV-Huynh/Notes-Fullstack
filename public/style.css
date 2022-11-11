@@ -1,0 +1,41 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(104, 76, 27);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+input{
+  width: 20%;
+  height: 30px;
+  border-radius: 7px;
+  background-color: aliceblue;
+}
+h1{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 4rem;
+  margin-bottom: 30px;
+}
+.notesHeader{
+  color: white;
+}
+.notes{
+  margin-top: 10px;
+}
+.closeBtn{
+  color: white;
+}
+button{
+  margin-top: 10px;
+  font-size: 2rem;
+}
+img{
+  height: 200px;
+}
+
+
